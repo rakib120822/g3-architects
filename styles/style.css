@@ -130,6 +130,30 @@ body{
 #quick-list{
     font-weight: 500;   
 }
+.feature{
+    justify-items: center;
+    align-items: center;
+    gap:140px
+}
+
+#feature-title{
+    border-left: 5px solid #FF900E;
+}
+.feature-card{
+
+     padding: 30px;
+    box-shadow: 0 4px 30px 0 rgba(0,0,0,0.06);
+    margin-bottom: 20px;
+    border-radius: 24px;
+}
+
+.feature-card-title{
+    font-weight: 600;
+    font-size: 1.25rem;
+    margin-top: 0;
+    margin-bottom: 0;
+   
+}
 
 .facts-container{
     display: grid;
