@@ -51,6 +51,12 @@ main>section {
         border: none;
         border-radius: 8px;
     }
+
+    .section-title{
+    font-size: 2.8rem;
+    font-weight: 700;
+}
+
 /* header styles */
 body{
     margin:0;
@@ -120,9 +126,6 @@ body{
     align-content: center;
 }
 
-.feature-title{
-    font-size: 2.8rem;
-}
 
 #quick-list{
     font-weight: 500;   
